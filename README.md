@@ -36,7 +36,22 @@ The result below shows that the mean value of PSI for lot 1 and 2 are 1500 and 1
  
  ![d3_3](/image/d3_3.png)
  
-
+The results reveal that the manufacturing work for lot 1 and 2 are in good condition, but the products in lot 3 are not qualified.
 
 ## Study Design: MechaCar vs Competition
+
+- I'm going to test the city/highway fuel efficiency and horse power.
+- The null hypothesis and the corresponding alternative hypothesis are listed below:
+
+H0: The city fuel efficiency for MechaCar is equal to the average city fuel efficiency of other cars in the competition.
+Ha: The city fuel efficiency for MechaCar is greater than the average city fuel efficiency of other cars in the competition.
+
+H0: The highway fuel efficiency for MechaCar is equal to the average highway fuel efficiency of other cars in the competition.
+Ha: The highway fuel efficiency for MechaCar is greater than the average highway fuel efficiency of other cars in the competition.
+
+H0: The horse power for MechaCar is equal to the average horse powerof other cars in the competition.
+Ha: The horse power for MechaCar is greater than the average horse power of other cars in the competition.
+
+- I will do two-sample t-Test, because we are comparing the distribution means of the metrics for MechaCar and all other cars.
+- The city and highway MPG(Miles per gallon) and the horse power data are needed for the study.
 
