@@ -24,16 +24,19 @@ As shown above, the variance for lot 1 and 2 are 0.9795918 and 7.4693878 respect
 ## T-Tests on Suspension Coils
 
 The result below shows that the mean value of PSI for the whole line is 1498.78, and it is significantly different from the population mean of 1,500 pounds per square inch (p-value = 0.06028).
-  ![d3](/image/d3.png)
+
+ ![d3](/image/d3.png)
  
 The result below shows that the mean value of PSI for lot 1 and 2 are 1500 and 1500.2, they are not significantly different from the population mean of 1,500 pounds per square inch (p-value = 1 and 0.6072). 
-  ![d3_1](/image/d3_1.png)
-  ![d3_2](/image/d3_2.png)
+
+ ![d3_1](/image/d3_1.png)
+ ![d3_2](/image/d3_2.png)
  
  The mean value of PSI for lot 3 is 1496.14, it is significantly different from the population mean of 1,500 pounds per square inch (p-value = 0.04168 < 0.05)
-  ![d3_3](/image/d3_3.png)
  
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+ ![d3_3](/image/d3_3.png)
+ 
+
 
 ## Study Design: MechaCar vs Competition
 
